@@ -1,0 +1,13 @@
+.elementor-245 .elementor-element.elementor-element-5c478d4{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-245 .elementor-element.elementor-element-b2c0988 .elementor-button{background-color:#69727D;font-family:"Montserrat", Sans-serif;font-size:13px;font-weight:600;letter-spacing:1px;fill:#FFFFFF;color:#FFFFFF;border-radius:50px 50px 50px 50px;padding:11px 11px 11px 11px;}.elementor-245 .elementor-element.elementor-element-b2c0988{padding:0px 0px 0px 0px;}.elementor-245 .elementor-element.elementor-element-b2c0988 .elementor-button-content-wrapper{flex-direction:row;}.elementor-245 .elementor-element.elementor-element-b2c0988 .elementor-button .elementor-button-content-wrapper{gap:6px;}.elementor-245 .elementor-element.elementor-element-18e7afc{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}:root{--page-title-display:none;}/* Start custom CSS for html, class: .elementor-element-78806a2 */#isi-undangan {
+    display: none;
+    
+}
+
+#nama-tamu {
+    font-family: 'birthstone';
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #000;
+    text-align: center;
+}/* End custom CSS */
